@@ -1,8 +1,21 @@
-# React + Vite
+# 3d Portfolio Site
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Concept
 
-Currently, two official plugins are available:
+this project was inpired by JSMastery [tutorial.](https://www.youtube.com/watch?v=FkowOdMjvYo) Following tutorial and Resurce i have learned about 3js and how 3d is represented in websited.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Project uses Tailwind css and assets from sketchfab.
+
+## Running Project
+
+project was made using vite thus needs command
+
+```bash
+    npm run dev
+```
+
+## Enviroment Variable
+
+copy content of env-example.txt into .env.local.
+
+Email JS was used for contact form so you can get your credentials from there.
